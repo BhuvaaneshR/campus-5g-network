@@ -11,3 +11,6 @@ Now execute the scripts using the following command:
 ./"name_of_script".sh
 
 NOTE:Replace the "name_of_script".sh with the actual file name.
+
+
+https://common-wildebeest-05a.notion.site/Wipro-5g-Project-2d27cf62f8bc80a8bec9f8342f08f050?source=copy_link
